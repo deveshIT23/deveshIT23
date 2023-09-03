@@ -1,30 +1,48 @@
 ### Hi there 👋
 
-<!--
-**deveshIT23/deveshIT23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devesh Sharma - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .contact {
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello, I'm Devesh Sharma</h1>
+        <p>I recently graduated with a Bachelor's degree in Information Technology in 2023. I'm passionate about full-stack development and have a keen interest in cloud development, which I'm actively learning.</p>
+        
+        <p>In addition to my development skills, I'm proficient in data structures and algorithms using both C++ and Java.</p>
+        
+        <p>Feel free to get in touch with me for collaborations or discussions:</p>
+        <p class="contact">Email: <a href="mailto:deveshsharma.it23@gmail.com">deveshsharma.it23@gmail.com</a></p>
+        
+        <p>Let's connect and create amazing things together!</p>
+    </div>
+</body>
+</html>
 
-# Hello, I'm Devesh Sharma! 👋
-
-Welcome to my GitHub profile. I'm a passionate software developer with a strong background in Information Technology. I recently completed my Bachelor's in Technology (B.Tech) in Information Technology in 2023.
-
-## About Me
-
-- 🔭 I'm skilled in Full Stack Development, where I work with a variety of technologies to build robust web applications.
-- ☁️ I'm also exploring Cloud Development, diving into the world of cloud platforms to create scalable and efficient solutions.
-- 🚀 I have a keen interest in Data Structures and Algorithms (DSA) and am proficient in both C++ and Java for competitive programming and problem-solving.
-
-## What I Do
-
-```python
-class DeveshSharma:
-    def __init__(self):
-        self.name = "Devesh Sharma"
-        self.education = "B.Tech in Information Technology"
-        self.skills = ["Full Stack Development", "Cloud Development", "DSA in C++ and Java"]
-        self.interests = ["Open Source Contributions", "Continuous Learning"]
-    
-    def get_in_touch(self):
-        email = "your.email@example.com"
-        linkedin = "https://www.linkedin.com/in/yourlinkedinprofile"
-        github = "https://github.com/yourgithubusername"
-        return {"Email": email, "LinkedIn": linkedin, "GitHub": github}
